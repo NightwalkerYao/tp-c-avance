@@ -1,0 +1,1 @@
+double produit(double, double);
